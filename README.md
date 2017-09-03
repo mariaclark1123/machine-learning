@@ -1,5 +1,5 @@
 # Machine Learning
 
-## course of SNU
+### course of SNU
 
 this is a readme 
