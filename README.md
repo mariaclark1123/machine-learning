@@ -6,7 +6,7 @@ this is a readme
 
 
 
-```
+```C
 int main() {
   
   printf("hello ml\n");
