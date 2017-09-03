@@ -12,3 +12,11 @@ int main() {
   printf("hello ml\n");
 }
 ```
+
+```
+
+function hello() {
+  console.log("hello ml");
+}
+
+```
