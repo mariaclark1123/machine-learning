@@ -13,7 +13,7 @@ int main() {
 }
 ```
 
-```
+```js
 
 function hello() {
   console.log("hello ml");
